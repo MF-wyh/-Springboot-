@@ -1,0 +1,8 @@
+spring:
+  profiles:
+    active: dev
+
+
+
+shopping:
+  imageHost: http://localhost/
